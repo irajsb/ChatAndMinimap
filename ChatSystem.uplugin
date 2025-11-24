@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "ChatSystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Iraj MH Aurelion",
+	"CreatedByURL": "https://Aurelion.net",
+	"DocsURL": "https://irajsb.github.io/UMGPluginDocs/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/78dc0f561777414780b70af63de36f09",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ChatSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+			,
+			"WhitelistPlatforms": [
+				"Win64",
+				"Linux",
+				"Android","IOS","Mac"
+			]
+		}
+	]
+}
